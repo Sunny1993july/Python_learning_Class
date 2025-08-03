@@ -80,7 +80,7 @@ This is use to a short notes regarding the Classes of the Python.
 - This data is comman to all the methods and all the instantiated class.
 
 ### Instance attribute
-- A variable defined inside an istance method using *self argument* and *dot notation*.
+- A variable defined inside an instance method using *self argument* and *dot notation*.
 
 ### Methods
 - The Python Class are of three different class:
@@ -88,7 +88,7 @@ This is use to a short notes regarding the Classes of the Python.
   -  ***Class Method***: Takes *current Class* as first arguments.
   -  ***Static Class***: Takes neither as the arguments.
 
-
-
+### Instance Method
+- This is to 
 
 
